@@ -1,0 +1,20 @@
+{
+  "applicationId": "com.petro.workflow",
+  "version": "1.0.0",
+  "defaultMode": "window",
+  "documentRoot": "/app/",
+  "modes": {
+    "window": {
+      "title": "Petro Workflow Dashboard",
+      "width": 1200,
+      "height": 800,
+      "alwaysOnTop": false,
+      "icon": "/app/akakus-logo.png"
+    }
+  },
+  "cli": {
+    "binaryName": "Petro-Workflow",
+    "resourcesPath": "/resources",
+    "extensionsPath": "/extensions"
+  }
+}
