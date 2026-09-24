@@ -1,26 +1,7 @@
 {
   "name": "petro-workflow-app",
   "version": "1.0.0",
-  "description": "Petro Workflow Dashboard Application",
-  "author": "EMAD369-stack",
-  "main": "main.js",
   "scripts": {
-    "build": "electron-builder --win"
-  },
-  "devDependencies": {
-    "electron": "^31.0.0",
-    "electron-builder": "^24.13.0"
-  },
-  "build": {
-    "appId": "com.petro.workflow",
-    "asar": true,
-    "directories": {
-      "output": "dist"
-    },
-    "files": [
-      "main.js",
-      "package.json",
-      "dashboard/**/*"
-    ]
+    "build": "npx @neutralinojs/neu build"
   }
 }
