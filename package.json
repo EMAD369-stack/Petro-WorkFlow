@@ -15,13 +15,12 @@
     "appId": "com.petro.workflow",
     "asar": true,
     "directories": {
-      "output": "dist",
-      "app": "."
+      "output": "dist"
     },
     "files": [
       "main.js",
       "package.json",
-      "app/**/*"
+      "dashboard/**/*"
     ]
   }
 }
