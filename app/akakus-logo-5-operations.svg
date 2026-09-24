@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" role="img" aria-label="Akakus Oil Operations logo option 5">
+  <rect width="900" height="260" rx="30" fill="#082540"/>
+  <rect x="48" y="52" width="150" height="150" rx="31" fill="#1a82bd"/>
+  <path d="M123 71 77 164h29l17-34 17 34h29L123 71Zm-11 69 11-25 11 25h-22Z" fill="white"/>
+  <path d="M74 176h98" stroke="#23d0dd" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="161" cy="87" r="12" fill="#e9a93e"/>
+  <text x="242" y="120" fill="white" font-family="Arial, sans-serif" font-size="46" font-weight="700">AKAKUS</text>
+  <text x="246" y="161" fill="#9bc9e2" font-family="Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="4">OIL OPERATIONS</text>
+  <rect x="246" y="182" width="380" height="9" rx="4" fill="#23b4d5"/>
+</svg>
