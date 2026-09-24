@@ -15,7 +15,8 @@
     "appId": "com.petro.workflow",
     "asar": true,
     "directories": {
-      "output": "dist"
+      "output": "dist",
+      "app": "."
     },
     "files": [
       "main.js",
